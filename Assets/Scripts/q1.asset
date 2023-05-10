@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: q1
   m_EditorClassIdentifier: 
   question: "Qui \xE9s el rei de la casa?"
+  answers:
+  - Nami
+  - Akira
+  - Shiro
+  - Alex
+  correctanswer: 2

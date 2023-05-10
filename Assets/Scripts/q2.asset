@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: q2
   m_EditorClassIdentifier: 
   question: "Qui \xE9s la pesada de la casa?"
+  answers:
+  - Akira
+  - Nami
+  - Anna
+  - Shiro
+  correctanswer: 0
